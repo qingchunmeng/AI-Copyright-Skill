@@ -1,0 +1,19 @@
+SKILL.md
+  s_df62cb741ab8e8::t_715438748fe501 348-406,410
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "738e1e2acac7f7f9ddc1972bd782b14f283ac534",
+  "prompts": {},
+  "sessions": {
+    "s_df62cb741ab8e8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29c18a6a-842b-4ec2-8623-e72e76c5d2e8",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "mengqingchun <mengqingchun@zuoyebang.com>"
+    }
+  }
+}
