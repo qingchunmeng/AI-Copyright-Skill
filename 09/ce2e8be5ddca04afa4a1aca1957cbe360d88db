@@ -1,0 +1,29 @@
+SKILL.md
+  s_df62cb741ab8e8::t_83b94a6b77754b 181-214
+  s_df62cb741ab8e8::t_4ba288b5d19c4b 394
+  s_df62cb741ab8e8::t_47e6a6e518b30b 450-451
+  s_df62cb741ab8e8::t_877c899d194901 462,464,469,478-479,481-482,484-487,522,535,540-541,548
+  s_df62cb741ab8e8::t_00ebe0f545da1b 411
+  s_df62cb741ab8e8::t_996eaaae77e5ed 364-384
+  s_df62cb741ab8e8::t_9e7a29a33e8ea8 32
+  s_df62cb741ab8e8::t_a3e5b3546b3053 307-317
+  s_df62cb741ab8e8::t_c64a4ff0a34510 178-180
+  s_df62cb741ab8e8::t_6610c531a95d28 461,463,465-468,470-477,480,483,488-521,523-534,536-539,542-547
+  s_df62cb741ab8e8::t_7e66b8c460e2d5 568
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "09ce2e8be5ddca04afa4a1aca1957cbe360d88db",
+  "prompts": {},
+  "sessions": {
+    "s_df62cb741ab8e8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29c18a6a-842b-4ec2-8623-e72e76c5d2e8",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "mengqingchun <mengqingchun@zuoyebang.com>"
+    }
+  }
+}
